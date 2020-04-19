@@ -1,0 +1,6 @@
+[submodule "esamvaad-backend"]
+	path = esamvaad-backend
+	url = git@github.com:uday-whoami/esamvaad-backend.git
+[submodule "esamvaad-frontend"]
+	path = esamvaad-frontend
+	url = git@github.com:uday-whoami/esamvaad-frontend.git
